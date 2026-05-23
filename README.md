@@ -8,7 +8,7 @@ A data science project that performs **end-to-end analysis and revenue predictio
 
 ```
 code/
-├── realistic_ecommerce_sales_data (1).py   # Main analysis script
+├── realistic-ecommerce-sale-data.py   # Main analysis script
 ├── Realistic_E_Commerce_Sales_Data.csv     # Input dataset (required)
 └── README.md
 ```
